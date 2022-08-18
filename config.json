@@ -1,0 +1,20 @@
+{
+    "BOTS": {
+        "globalPrefix": ";",
+        "globalCommand": ";info",
+        "servers": [
+            {
+                "PORT": 7800,
+                "TOKEN": "OTk3MDM1NDI0NDMyMjU5MTEy.GA7XM7.pFae6CRezNOdbnF8a245u5K5-ZrTd9pdpqK_Ss"
+            },
+            {
+                "PORT": 7800,
+                "TOKEN": "OTk3MDM1NDI0NDMyMjU5MTEy.GA7XM7.pFae6CRezNOdbnF8a245u5K5-ZrTd9pdpqK_Ss"
+            }
+        ]
+    },
+    "API": {
+        "KEY": "ApiKey",
+        "AccountID": "21216"
+    }
+}
